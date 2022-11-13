@@ -28,22 +28,23 @@ Note (This password manage does not use encryption for username or password fiel
 
 ```
 ## Main screen
-<img src="JPWM1.png" width="500" height="400">
+<img src="/Assets/JPWM1.png" width="500" height="400">
 
 ## Logo imported
 
-<img src="JPWM2.png" width="500" height="400">
+<img src="/Assets/JPWM2.png" width="500" height="400">
 
 ## About/Version
 
-<img src="JPWM%20about.png" width="500" height="400">
+<img src="/Assets/JPWM%20about.png" width="500" height="400">
 
 ## Password Generator
 
-<img src="JPWM%20passgen1.png" width="500" height="400">
+<img src="/Assets/JPWM%20passgen1.png" width="500" height="400">
 
 # Video Demo
 
+https://user-images.githubusercontent.com/71678206/201527714-f0ee6e67-7519-48aa-90f5-7229a5696759.mov
 
 ### TODO's
 - Enable user to select JSON file from file system
