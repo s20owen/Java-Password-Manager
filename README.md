@@ -42,6 +42,9 @@ Note (This password manage does not use encryption for username or password fiel
 
 <img src="JPWM%20passgen1.png" width="500" height="400">
 
+# Video Demo
+
+
 ### TODO's
 - Enable user to select JSON file from file system
 - Drag and drop file loading
