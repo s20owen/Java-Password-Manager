@@ -44,7 +44,10 @@ Note (This password manage does not use encryption for username or password fiel
 
 # Video Demo
 
-https://user-images.githubusercontent.com/71678206/201527714-f0ee6e67-7519-48aa-90f5-7229a5696759.mov
+
+
+https://user-images.githubusercontent.com/71678206/204403121-c158f675-ffa3-4acb-afda-35f40b56ca97.mp4
+
 
 ### TODO's
 - Enable user to select JSON file from file system
